@@ -1,10 +1,13 @@
 # EQGRP Lost in Translation
-Decrypted content of odd.tar.xz.gpg, swift.tar.xz.gpg and windows.tar.xz.gpg
+Decrypted content of odd.tar.xz.gpg, swift.tar.xz.gpg, windows.tar.xz.gpg, eqgrp-auction-file.tar.xz, eqgrp-free-file.tar.xz, windows_warez.tar.gz, equation_drug.tar.xz and unix_warez.tar.gz
+reorganized by exploit and payload
 
 Downloaded from https://yadi.sk/d/NJqzpqo_3GxZA4
 Original post from the #ShadowBrokers https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
 
+- **equation_drug**: contains various Windows exploits
 - **windows**: contains Windows exploits, implants and payloads
+- **linux**: contains Linux exploits, implants and payloads
 - **swift**: contains operational notes from banking attacks
 - **oddjob**: docs related to the ODDJOB backdoor 
 
