@@ -6,7 +6,7 @@ Downloaded from https://yadi.sk/d/NJqzpqo_3GxZA4
 Original post from the #ShadowBrokers https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
 
 - **equation_drug**: contains various Windows exploits
-- **windows**: contains Windows exploits, implants and payloads
+- **windows**: contains DANDERSPRITZ and FUZZBUNCH
 - **linux**: contains Linux exploits, implants and payloads
 - **swift**: contains operational notes from banking attacks
 - **oddjob**: docs related to the ODDJOB backdoor 
